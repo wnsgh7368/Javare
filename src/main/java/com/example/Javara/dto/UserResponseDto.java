@@ -15,5 +15,4 @@ public class UserResponseDto {
     private String patrolStatus;
     private Long edgeDeviceId;
     private LocalDateTime createdAt;
-    private String nonoTest;
 }
